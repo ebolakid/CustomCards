@@ -3,7 +3,7 @@ PebbleCards Custom Card directory
 
 Since the v1.3 of [PebbleCards App](http://keanulee.com/pebblecards/), you can add customizable cards to display custom content from your own JSON source.
 
-This repository aims to gather different Custom Cards created by the [community](http://forums.getpebble.com/discussion/8525/watch-app-sdk2-pebble-cards-customizable-watch-screen-for-pebble/)
+This repository aims to gather different Custom Cards created by the [community](http://forums.getpebble.com/discussion/8525/watch-app-sdk2-pebble-cards-customizable-watch-screen-for-pebble/).
 
 Categories
 ----------
