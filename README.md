@@ -14,7 +14,7 @@ Categories
 How to contribute
 -----------------
 
-You created a new Custom Cards? Show it to the world!
+You created a new Custom Card? Show it to the world!
 
 Please try to respect the following syntax:
 
