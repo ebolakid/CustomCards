@@ -50,3 +50,39 @@ Custom Card for Bundesliga 2 (German second league)
 **Url:** `http://pebble.ebolakid.com/2bundesliga.php?team=kaiserslautern` (current top five + your favorite team)
 
 **Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### Current standings in Allsvenskan
+
+Same as previous Custom Card, but for Allsvenskan (Swedish first league)
+
+**Url:** `http://pebble.ebolakid.com/allsvenskan.php` (current top six)
+**Url:** `http://pebble.ebolakid.com/allsvenskan.php?team=ifk%20goteborg` (current top five + your favorite team)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### Current standings in Ligue 1
+
+Same as previous Custom Card, but for Ligue 1 (French first league)
+
+**Url:** `http://pebble.ebolakid.com/ligue1.php` (current top six)
+**Url:** `http://pebble.ebolakid.com/ligue1.php?team=olympique%20lyonnais` (current top five + your favorite team)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### Current standings in Major League Soccer
+
+Same as previous Custom Card, but for Major League Soccer (American first league)
+
+**Url:** `http://pebble.ebolakid.com/majorleaguesoccer.php` (current top three from each conference, starting with Eastern)
+**Url:** `http://pebble.ebolakid.com/majorleaguesoccer.php?team=portland%20timbers` (current top five + your favorite team)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### Current standings in World Cup 2014
+
+Same as previous Custom Card, but for a World Cup 2014 group of your choice
+
+**Url:** `http://pebble.ebolakid.com/worldcup.php` (generates the standings of a random group from A-H)
+**Url:** `http://pebble.ebolakid.com/worldcup.php?group=c` (current standings in a specific group)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
