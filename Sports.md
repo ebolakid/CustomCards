@@ -95,3 +95,34 @@ Same as previous Custom Card, but for a World Cup 2014 group of your choice
 **Url:** `http://pebble.ebolakid.com/worldcup.php?group=c` (current standings in a specific group)
 
 **Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### PGA Tour Card
+
+This card will show the ongoing tournament name as well as the top six players, their total score and current hole. You can also send in the name of the player to show his position in relation to the top five.
+If that player is not in the field, the top six players will show.
+
+**Url:** `http://pebble.ebolakid.com/pgatour.php` (current top six)
+
+**Url:** `http://pebble.ebolakid.com/pgatour.php?player=tiger%20woods` (current top five + your favorite player)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### Web.com Tour Card
+
+Same as previous Custom Card, but for the Web.com Tour
+
+**Url:** `http://pebble.ebolakid.com/webtour.php` (current top six)
+
+**Url:** `http://pebble.ebolakid.com/webtour.php?player=adam%20hadwin` (current top five + your favorite player)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
+
+### European Tour Card
+
+Same as previous Custom Card, but for the European Tour
+
+**Url:** `http://pebble.ebolakid.com/europeantour.php` (current top six)
+
+**Url:** `http://pebble.ebolakid.com/europeantour.php?player=mika%20ilonen` (current top five + your favorite player)
+
+**Author:** [ebolakid](http://forums.getpebble.com/profile/52404/ebolakid)
